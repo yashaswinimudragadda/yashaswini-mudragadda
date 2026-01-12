@@ -19,6 +19,21 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 
 ---
 
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+📍 India  
+🎯 Completed
+
+**Bachelor’s Degree in Computer Science**  
+📊 Score: **84%**  
+📍 India
+
+**Intermediate Education**  
+📍 India
+
+---
+
 ## 🌱 Currently Learning
 - Next.js  
 - React.js  
