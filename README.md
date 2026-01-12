@@ -3,15 +3,6 @@
 
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
-# Hi 👋, I'm Yashaswini Mudragadda
-
-### A Passionate Java Full Stack Developer from India 🇮🇳
-
-<p align="center">
-  <img src="profilephoto.png" alt="Yashaswini Mudragadda" width="200"/>
-</p>
-
----
 
 ## 🙋‍♀️ About Me
 
