@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
-<h3 align="center">A passionate java full stack developer from India</h3>
+# Hi 👋, I'm Yashaswini Mudragadda  
+### A Passionate Java Full Stack Developer from India 🇮🇳
 
-
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ## 🙋‍♀️ About Me
 
@@ -23,14 +24,22 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 
 **Master of Computer Applications (MCA)**  
 📍 India  
-🎯 Completed
 
 **Bachelor’s Degree in Computer Science**  
 📊 Score: **84%**  
-📍 India
 
 **Intermediate Education**  
-📍 India
+📍 India  
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="profilephoto.png" alt="Yashaswini Mudragadda" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,22 +66,6 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/yashaswini-mudragadda-9180a9252" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30"
-         width="40" />
-  </a>
-  <a href="https://discord.gg/yashaswinimudragadda_34982" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-         height="30"
-         width="40" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -90,7 +83,6 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 ---
 
 ## 🎯 Career Goal
-
 To grow as a skilled **Full Stack Developer** and contribute to impactful projects while
 continuously learning and improving my technical skills.
 
@@ -98,12 +90,3 @@ continuously learning and improving my technical skills.
 
 ## ⚡ Fun Fact
 I enjoy designing UI in Figma before writing a single line of code 😄
-
-
-- 🌱 I’m currently learning **nextjs,reactjs,figma.**
-
-- 💬 Ask me about **java,html,css,nextjsframework,figma.**
-
-- 📫 How to reach me **mudragaddarajaniyashaswini@gmail.com**
-
-
