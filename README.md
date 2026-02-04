@@ -1,5 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 ![Header](./yashaswini mudragadda.png)
+
+<img src="yashaswini mudragadda.png" alt="Yashaswini Mudragadda"  />
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
 <h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 
