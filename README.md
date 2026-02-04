@@ -1,6 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 
-
 <img src="logo.png" alt="Yashaswini Mudragadda"  />
 <h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 
