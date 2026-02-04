@@ -4,47 +4,23 @@
 <img src="logo.png" alt="Yashaswini Mudragadda"  />
 <h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 <!-- ===================== HERO SECTION ===================== -->
-My Skills<br>
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,typescript,mysqlite,mysql,python,eclipse,replit,vim,git,github)](https://skillicons.dev)
-## 🛠️ Technical Skills
 
-**Languages & Databases**
-- Java  
-- JavaScript  
-- MySQL  
 
-**Frontend**
-- HTML5  
-- CSS3  
-- React.js  
-- Next.js  
-- Tailwind CSS  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**Tools & Design**
-- Git & GitHub  
-- Figma  
 
----
 
-## 🌱 Currently Learning
-- Advanced React & Next.js  
-- UI/UX Design Principles  
-- Scalable Frontend Architecture  
+  # 📊 My Coding Dashboard
 
----
 
-## 📫 Contact & Socials
-- 📧 **Email:** mudragaddarajaniyashaswini@gmail.com  
-- 💼 **LinkedIn:** [yashaswini-mudragadda](https://linkedin.com/in/yashaswini-mudragadda-9180a9252)  
-- 💬 **Discord:** yashaswinimudragadda_34982  
 
----
+  [![yashaswinimudragadda's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashaswinimudragadda&bg_color=0d1117&color=40c463&line=40c463&point=40c463&area=true&hide_border=false)](https://github.com/yashaswinimudragadda)
 
-## 🎯 Career Objective
-To grow as a **Full Stack Developer**, contribute to impactful projects, and continuously
-improve my technical and design skills.
+</div>
 
----
-
-### ⚡ Fun Fact
-I enjoy designing UI in Figma before writing any code 😄
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashaswini-mudragadda-9180a9252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashaswini-mudragadda-9180a9252" height="30" width="40" /></a>
+<a href="https://discord.gg/yashaswinimudragadda_34982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashaswinimudragadda_34982" height="30" width="40" /></a>
+</p>
