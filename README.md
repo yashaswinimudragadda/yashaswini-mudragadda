@@ -1,5 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-![Header](./yashaswini mudragadda.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7b6c85b-9c13-48fd-ab22-6f9519468fcf" width="600px">
+</p>
 
 <img src="yashaswini mudragadda.png" alt="Yashaswini Mudragadda"  />
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
