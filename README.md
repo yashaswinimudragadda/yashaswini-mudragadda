@@ -13,11 +13,20 @@
 
 This repository contains resources and information related to MongoDB skills.
 
-## Relational to Document Model
+## Relational to Document Model & Design Patterns
 
 One of the key concepts covered is transitioning from a traditional relational database model to a flexible document model.
 
-![MongoDB Skill - Relational to Document Model](from-relational-model-sql-to-mongodb-s-document-mod.png)
+<p align="center">
+  <img src="from-relational-model-sql-to-mongodb-s-document-mod.png" alt="Relational to Document Model" height="140">
+  <img src="mongodb-schema-design-patterns-and-anti-patterns-sk%20(1).png" alt="Schema Patterns and Anti-patterns" height="200">
+</p>
+
+---
+
+### Key Concepts
+* **Relational to Document:** Moving from normalized tables to embedded documents.
+* **Patterns & Anti-patterns:** Implementing strategies like the *Bucket* or *Computed* patterns while avoiding *Unbounded Arrays*.
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
   # 📊 My Coding Dashboard
