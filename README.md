@@ -23,6 +23,13 @@ One of the key concepts covered is transitioning from a traditional relational d
 </p>
 
 ---
+## javascript
+
+One of the key scripting language for adding live to webpage .
+<p align="center">
+<img src="javascript-essentials-1.png" alt="Cisco JavaScript Essentials 1 Badge" width="200">
+</p>
+---
 
 ### Key Concepts
 * **Relational to Document:** Moving from normalized tables to embedded documents.
