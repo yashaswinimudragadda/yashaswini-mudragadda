@@ -30,6 +30,13 @@ One of the key scripting language for adding live to webpage .
 <img src="javascript-essentials-1.png" alt="Cisco JavaScript Essentials 1 Badge" width="200">
 </p>
 ---
+##Postman api
+worked to understand the api working
+<p align="center">
+<img src="Postman - API Beginner - 2026-04-02.svg" alt="Cisco JavaScript Essentials 1 Badge" width="200">
+</p>
+---
+
 
 ### Key Concepts
 * **Relational to Document:** Moving from normalized tables to embedded documents.
